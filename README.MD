@@ -4,6 +4,9 @@
 - httpx 
 - selectolax
 - loguru
+- pydantic
+
+
 
 
 
